@@ -1,0 +1,32 @@
+Instruções para uso:
+Arquivos de áudio necessários: Você precisa criar uma pasta "sons" dentro da pasta de imagens e adicionar os seguintes arquivos:
+
+shoot.wav (som de tiro)
+
+explosion.wav (som de explosão)
+
+powerup.wav (som ao pegar power-up)
+
+missile.wav (som de míssil)
+
+damage.wav (som ao levar dano)
+
+level_up.wav (som ao passar de nível)
+
+background_music.mp3 (música de fundo)
+
+Imagens de fundo: Você precisa ter as imagens de background_1.png a background_20.png na pasta de imagens.
+
+Controles:
+
+Setas: Movimentar
+
+W: Atirar
+
+E: Lançar míssil (se tiver mísseis)
+
+Espaço: Ativar/desativar turbo
+
+R: Reiniciar (após game over)
+
+ESC: Sair do jogo
